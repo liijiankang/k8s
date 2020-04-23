@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88ce6d2-fdf9-4ceb-93d7-a0fcb42417aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/docker/centos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/docker/dockerfile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/docker/makeImageForRedhat.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/docker/env.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/docker/env.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/note/docker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\learn\k8s\note\docker" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,9 +71,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="654" y="310" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587610819444" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587620851403">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587623009478">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587620851403" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587623009478" />
   </component>
 </project>

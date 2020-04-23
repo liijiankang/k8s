@@ -44,3 +44,15 @@
 
 `docker image build [OPTIONS] PATH | URL | -`
 * 构建镜像
+* PATH URL确定构建上下文。如指定PATH，将路径文件和目录打包上传到docker引擎，如指定URL，则引擎克隆该项目指定分支，作为上下文使用。
+* -f/--file指定dockfile路径，默认为当前路径下的dockerfile
+* -t/--tag指定构建成功后镜像标识，可以使用多个。
+* --iidfile将镜像ID写入指定文件
+
+`docker image tag SOURCE_IMAGE[:TAG] [IMAGE...]`
+* 原有的镜像标识并不删除，相当于为原镜像表示生成了别名
+
+`docker image rm [OPTIONS] IMAGE [IMAGE...]`
+* -f/--force 强删被引用镜像，但是不删除容器引用的镜像
+
+
