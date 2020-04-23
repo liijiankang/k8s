@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88ce6d2-fdf9-4ceb-93d7-a0fcb42417aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/note/docker/env.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
