@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88ce6d2-fdf9-4ceb-93d7-a0fcb42417aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/note/docker/centos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/docker/dockerfile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/docker/makeImageForRedhat.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/docker/docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/docker/image.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/docker/env.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/docker/env.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/docker/centos.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/docker/centos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/docker/env.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/docker/repository.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +71,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="654" y="310" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587610819444" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587623009478">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587691922438">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587623009478" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587691922438" />
   </component>
 </project>
